@@ -1,0 +1,134 @@
+[
+    {
+        "id":1,
+        "image":"/images/Health.png",
+        "category":"Health",
+        "title":"Clean water for children",
+        "Description": "Providing access to clean water is essential for the health and future of children. Your support ensures a brighter, healthier tomorrow by delivering safe and sustainable water sources to communities in need.",
+        "textColor":"#1e40af",
+        "cardBg":"#dbeafe",
+        "categoryBg":"#93c5fd",
+        "price":290
+    },
+    {
+        "id":2,
+        "image":"/images/Education.png",
+        "category":"Education",
+        "title":"Good Education",
+        "Description": "Quality education empowers individuals to reach their full potential. Donate to initiatives that enhance educational opportunities, equipping students with the knowledge and skills needed for success.",
+        "textColor":"#991b1b",
+        "cardBg":"#fee2e2",
+        "categoryBg":"#fca5a5",
+        "price":290
+    },
+    {
+        "id":3,
+        "image":"/images/Clothing.png",
+        "category":"Clothing",
+        "title":"Used Clothing Drive",
+        "Description": "Join our clothing drive to give a second life to gently used clothing. Your contributions help clothe those in need with warmth, dignity, and a fresh start.",
+        "textColor":"#166534",
+        "cardBg":"#dcfce7",
+        "categoryBg":"#86efac",
+        "price":290
+    },
+    {
+        "id":4,
+        "image":"/images/Food.png",
+        "category":"Food",
+        "title":"Better Food for Everyone",
+        "Description": "Access to nutritious food is a basic human right. Contribute to the fight against hunger by supporting initiatives that ensure everyone has access to better food options, creating a healthier and more equitable world.",
+        "textColor":"#991b1b",
+        "cardBg":"#fee2e2",
+        "categoryBg":"#fca5a5",
+        "price":290
+    },
+    {
+        "id":5,
+        "image":"/images/Nourish and Flourish.jpg",
+        "category":"Food",
+        "title":"Nourish and Flourish",
+        "Description": "Make a difference in the fight against hunger. Your donations provide nourishment to those in need, ensuring no one goes to bed hungry. Together, we can create a world with food security for all.",
+        "textColor":"#991b1b",
+        "cardBg":"#fee2e2",
+        "categoryBg":"#fca5a5",
+        "price":290
+    },
+    {
+        "id":6,
+        "image":"/images/Clothing Donations for Comfort.jpg",
+        "category":"Clothing",
+        "title":"Warmth in Every Thread",
+        "Description": "Extend a helping hand by donating clothing to those in need. Your contributions provide warmth, dignity, and a fresh start for individuals facing challenging circumstances.",
+        "textColor":"#166534",
+        "cardBg":"#dcfce7",
+        "categoryBg":"#86efac",
+        "price":290
+    },
+    {
+        "id":7,
+        "image":"/images/Educate to Elevate.jpg",
+        "category":"Education",
+        "title":"Educate to Elevate",
+        "Description": "Empower underserved communities by donating to educational initiatives. Your contribution helps bridge the knowledge gap and unlocks the potential of countless individuals, shaping a brighter future for all.",
+        "textColor":"#991b1b",
+        "cardBg":"#fee2e2",
+        "categoryBg":"#fca5a5",
+        "price":290
+    },
+    {
+        "id":8,
+        "image":"/images/Donations for Better Health Care.jpg",
+        "category":"Health",
+        "title":"Healing Hands",
+        "Description": "Your donations can save lives. Support medical research, clinics, and healthcare access initiatives to improve the well-being of individuals and communities worldwide. Join us in promoting a healthier world.",
+        "textColor":"#1e40af",
+        "cardBg":"#dbeafe",
+        "categoryBg":"#93c5fd",
+        "price":290
+    },
+    {
+        "id":9,
+        "image":"/images/Caring for All.jpg",
+        "category":"Health",
+        "title":"Caring for All",
+        "Description": "Access to quality healthcare is a basic human right. Your generous donations help bridge healthcare disparities, providing medical services, equipment, and preventive care to underserved populations.",
+        "textColor":"#1e40af",
+        "cardBg":"#dbeafe",
+        "categoryBg":"#93c5fd",
+        "price":290
+    },
+    {
+        "id":10,
+        "image":"/images/Books for Brighter Futures.jpg",
+        "category":"Education",
+        "title":"Books for Brighter Futures",
+        "Description": "Join us in the mission to provide quality education for every child. Your generous donations support schools, libraries, and scholarships, paving the way for a generation of leaders and learners.",
+        "textColor":"#991b1b",
+        "cardBg":"#fee2e2",
+        "categoryBg":"#fca5a5",
+        "price":290
+    },
+    {
+        "id":11,
+        "image":"/images/clothing empowerment.jpg",
+        "category":"Clothing",
+        "title":"Dress for Success",
+        "Description": "Clothing donations go beyond fabric and fashion. They empower individuals to pursue their dreams with confidence. Support our mission to provide clothing for brighter futures.",
+        "textColor":"#166534",
+        "cardBg":"#dcfce7",
+        "categoryBg":"#86efac",
+        "price":290
+    },
+    {
+        "id":12,
+        "image":"/images/Feeding the future.jpg",
+        "category":"Food",
+        "title":"Feeding the Future",
+        "Description": "Hunger knows no boundaries. Your contributions support food banks, meal programs, and sustainable farming initiatives. Help us eradicate hunger and build a stronger, healthier global community.",
+        "textColor":"#991b1b",
+        "cardBg":"#fee2e2",
+        "categoryBg":"#fca5a5",
+        "price":290
+    }
+]

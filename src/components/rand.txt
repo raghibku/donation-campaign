@@ -1,0 +1,10 @@
+if selectedCardId >4 && ButtonOnceClicked==false,
+	Show Max-4 cards---final selectedCardID split
+	show SeeAll
+
+else if selectedCardId>4 && ButtonOnceClicked==true
+	Show all cards
+	Hide see all
+else selectedCard<=4
+	Show all cards
+	hide see all
